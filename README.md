@@ -8,8 +8,7 @@ Developing a mini version of a security data pipeline that ingests:
 - Network-like events
 
 ## Architecture
-
-TODO
+![Architecture Diagram](images/SecurityTelemetryArchitectureDiagram.jpg)
 
 ## Core Features
 - Schema validation for events
