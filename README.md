@@ -15,3 +15,6 @@ Developing a mini version of a security data pipeline that ingests:
 - Normalization to a common event model (this is similar to ASIM model in Azure)
 - Simple Enrichment (geographical/user metadata)
 - Dead Letter Queue (DLQ) for malformed events
+
+## Usage
+First run `docker compose up -d` to get redpanda up and running.
